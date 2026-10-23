@@ -3,14 +3,14 @@ This is an end-to-end data analysis pipeline, Python EDA, and Excel model for fl
 # Goibibo Flight Booking Data Analysis & Modeling
 
 ## Situation
-* Goibibo, a major Indian online travel platform, accumulated 300K+ flight booking records across 8 airlines and 15+ routes[cite: 1].
-* The data lacked structure and actionable insights—pricing was inconsistent, demand patterns were unclear, and manual reporting was time-consuming[cite: 1].
-* Leadership required competitive intelligence to support dynamic pricing, upselling, and operational decisions[cite: 1].
+* Goibibo, a major Indian online travel platform, accumulated 300K+ flight booking records across 8 airlines and 15+ routes.
+* The data lacked structure and actionable insights—pricing was inconsistent, demand patterns were unclear, and manual reporting was time-consuming.
+* Leadership required competitive intelligence to support dynamic pricing, upselling, and operational decisions].
 
 ## Task
-* Design and execute an end-to-end data analysis pipeline on 300,261 flight records[cite: 1].
-* Identify market share dynamics, pricing trends, stop-level behavior, and route demand patterns[cite: 1].
-* Deliver a structured framework to replace manual reporting and surface actionable pricing and demand signals[cite: 1].
+* Design and execute an end-to-end data analysis pipeline on 300,261 flight records
+* Identify market share dynamics, pricing trends, stop-level behavior, and route demand patterns.
+* Deliver a structured framework to replace manual reporting and surface actionable pricing and demand signals
 
 ## Action
 * Data Engineering**: Cleaned raw CSV—normalized price strings, standardized stop labels, parsed dates, and engineered route fields.
