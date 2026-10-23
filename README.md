@@ -19,10 +19,10 @@ This is an end-to-end data analysis pipeline, Python EDA, and Excel model for fl
 * Insight Generation**: Applied the STAR methodology to translate raw findings into pricing, upselling, and operational recommendations.
 
 ## 📊 Results & Key Findings
-* Market Share**: IndiGo and Air India hold a combined 41% volume share; Vistara commands the highest median price at ₹15,698[cite: 1].
-* Stop-Level Behavior**: Confirmed that 83.6% of flights are 1-stop, highlighting non-stop upselling as a major revenue opportunity[cite: 1].
-* Route Dynamics**: Delhi–Mumbai is the highest-volume route (15,291 flights), with business class commanding ~9x the economy median price[cite: 1].
-* Efficiency Gains**: Self-service KPI models reduced manual reporting effort by an estimated 60% and enabled 25–30% operational efficiency gains[cite: 1].
+* Market Share**: IndiGo and Air India hold a combined 41% volume share; Vistara commands the highest median price at ₹15,698.
+* Stop-Level Behavior**: Confirmed that 83.6% of flights are 1-stop, highlighting non-stop upselling as a major revenue opportunity
+* Route Dynamics**: Delhi–Mumbai is the highest-volume route (15,291 flights), with business class commanding ~9x the economy median price.
+* Efficiency Gains**: Self-service KPI models reduced manual reporting effort by an estimated 60% and enabled 25–30% operational efficiency gains.
 
 ## 📂 Repository Contents
 * `notebooks/`: Contains the Jupyter Notebook (`.ipynb`) with Python Exploratory Data Analysis.
