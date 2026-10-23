@@ -13,10 +13,10 @@ This is an end-to-end data analysis pipeline, Python EDA, and Excel model for fl
 * Deliver a structured framework to replace manual reporting and surface actionable pricing and demand signals[cite: 1].
 
 ## Action
-* Data Engineering**: Cleaned raw CSV—normalized price strings, standardized stop labels, parsed dates, and engineered route fields[cite: 1].
-* Python EDA**: Utilized pandas, seaborn, and matplotlib to build analytical charts (market share, median price, route heatmaps, and class price distributions)[cite: 1].
-* Excel Model**: Developed a multi-sheet workbook containing a KPI dashboard, cleaned data subset, route analysis, and reference sheets[cite: 1].
-* Insight Generation**: Applied the STAR methodology to translate raw findings into pricing, upselling, and operational recommendations[cite: 1].
+* Data Engineering**: Cleaned raw CSV—normalized price strings, standardized stop labels, parsed dates, and engineered route fields.
+* Python EDA**: Utilized pandas, seaborn, and matplotlib to build analytical charts (market share, median price, route heatmaps, and class price distributions)
+* Excel Model**: Developed a multi-sheet workbook containing a KPI dashboard, cleaned data subset, route analysis, and reference sheets.
+* Insight Generation**: Applied the STAR methodology to translate raw findings into pricing, upselling, and operational recommendations.
 
 ## 📊 Results & Key Findings
 * Market Share**: IndiGo and Air India hold a combined 41% volume share; Vistara commands the highest median price at ₹15,698[cite: 1].
